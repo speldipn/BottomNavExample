@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_phone"
+        android:icon="@drawable/menu_phone_call"
+        android:title="@string/menu_phone" />
+
+    <item
+        android:id="@+id/menu_shopping"
+        android:icon="@drawable/menu_shopping_cart"
+        android:title="@string/menu_shopping" />
+
+    <item
+        android:id="@+id/menu_settings"
+        android:icon="@drawable/menu_settings"
+        android:title="@string/menu_settings" />
+
+    <item
+        android:id="@+id/menu_avatar"
+        android:icon="@drawable/menu_avatar"
+        android:title="@string/menu_avatar" />
+
+</menu>
