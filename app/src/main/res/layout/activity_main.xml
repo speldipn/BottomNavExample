@@ -32,8 +32,6 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
-        app:itemTextColor="@color/purple_200"
-        app:itemIconTint="@color/purple_200"
         app:menu="@menu/custom_botttom_menu" />
 
 </RelativeLayout>
