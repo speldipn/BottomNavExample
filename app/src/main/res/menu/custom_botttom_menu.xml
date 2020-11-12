@@ -3,22 +3,22 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:id="@+id/menu_phone"
+        android:id="@+id/phoneFragment"
         android:icon="@drawable/menu_phone_call"
         android:title="@string/menu_phone" />
 
     <item
-        android:id="@+id/menu_shopping"
+        android:id="@+id/shoppingFragment"
         android:icon="@drawable/menu_shopping_cart"
         android:title="@string/menu_shopping" />
 
     <item
-        android:id="@+id/menu_settings"
+        android:id="@+id/settingsFragment"
         android:icon="@drawable/menu_settings"
         android:title="@string/menu_settings" />
 
     <item
-        android:id="@+id/menu_avatar"
+        android:id="@+id/avatarFragment"
         android:icon="@drawable/menu_avatar"
         android:title="@string/menu_avatar" />
 
